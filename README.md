@@ -6,7 +6,7 @@ The actual production repository is private, but this repo serves to present the
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./banner.png)
+![Home Screen](./assets/banner.png)
 ---
 
 ## 📱 What is Chio?
@@ -34,16 +34,15 @@ Chio is a modern mobile app where users can:
 
 ## 🔗 Try the App
 
-You can still try the app through **Expo Go** even though the repo is private:
+You can try the app through **Expo Go**, even though the source code is private.
 
 ### 🚀 Run in Expo Go:
 1. Download the [Expo Go app](https://expo.dev/client) on your iOS or Android device
-2. Scan the QR code below:
+2. Scan the QR code below to open the app:
 
-> 📸 _(Insert QR Code Image or Expo Dev link here)_
+![QR Code](./assets/qrcode.png)
 
-
-Unfortunately the app is only best viewed on iPhone device and cannot be run on android yet
+> ⚠️ **Note:** The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
 
 ---
 
@@ -51,15 +50,6 @@ Unfortunately the app is only best viewed on iPhone device and cannot be run on 
 
 This repository is created to **publicly showcase my involvement** in the development of Chio.  
 I am actively contributing to the **private main repo**, but for privacy and project confidentiality, the source code is not open here.
-
-### 🧑‍💼 My Contributions:
-- Built the **backend infrastructure** using NestJS and MongoDB
-- Integrated **Stripe** for subscription and credit payments
-- Implemented **real-time messaging** using Socket.IO
-- Developed admin analytics features with Nivo and Firebase Analytics
-- Handled **Elasticsearch integration** for fast service discovery
-
----
 
 ## 📩 Contact
 
