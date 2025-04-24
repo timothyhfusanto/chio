@@ -7,8 +7,6 @@ The actual production repository is private, but this repo serves to present the
 
 ### 🏠 Home Screen
 ![Home Screen](./1.png)
-
-
 ---
 
 ## 📱 What is Chio?
@@ -44,7 +42,8 @@ You can still try the app through **Expo Go** even though the repo is private:
 
 > 📸 _(Insert QR Code Image or Expo Dev link here)_
 
-Or open this direct link: [Insert Expo link here]
+
+Unfortunately the app is only best viewed on iPhone device and cannot be run on android yet
 
 ---
 
