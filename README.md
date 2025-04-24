@@ -55,6 +55,5 @@ I am actively contributing to the **private main repo**, but for privacy and pro
 
 If you're interested in learning more about this project or viewing the private source code, feel free to reach out!
 
-> 📧 [Your Email]  
-> 🌐 [Your Portfolio Website (optional)]  
-> 🐙 [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+> 📧 timothyfusanto@u.nus.edu  
+> 🌐  https://my-portfolio-jgbf.onrender.com
