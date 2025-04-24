@@ -3,6 +3,22 @@
 This is a **public showcase repository** for the **Chio App**, a mobile social-commerce platform for the beauty and lifestyle industry.  
 The actual production repository is private, but this repo serves to present the app’s purpose, features, and usage for **portfolio and demonstration purposes**.
 
+---
+
+## 🔗 Try the App
+
+You can try the app through **Expo Go**, even though the source code is private.
+
+### 🚀 Run in Expo Go:
+1. Download the [Expo Go app](https://expo.dev/client) on your iOS device
+2. Scan the QR code below to open the app:
+
+![QR Code](./assets/qrcode.png)
+
+> ⚠️ **Note:** The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
+ 
+ ---
+
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
@@ -29,20 +45,6 @@ Chio is a modern mobile app where users can:
 - **Search**: Elasticsearch
 - **Realtime Messaging**: Socket.IO
 - **Analytics**: Firebase (GA4)
-
----
-
-## 🔗 Try the App
-
-You can try the app through **Expo Go**, even though the source code is private.
-
-### 🚀 Run in Expo Go:
-1. Download the [Expo Go app](https://expo.dev/client) on your iOS device
-2. Scan the QR code below to open the app:
-
-![QR Code](./assets/qrcode.png)
-
-> ⚠️ **Note:** The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
 
 ---
 
