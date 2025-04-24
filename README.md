@@ -3,6 +3,12 @@
 This is a **public showcase repository** for the **Chio App**, a mobile social-commerce platform for the beauty and lifestyle industry.  
 The actual production repository is private, but this repo serves to present the app’s purpose, features, and usage for **portfolio and demonstration purposes**.
 
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](./screenshots/home.png)
+
+
 ---
 
 ## 📱 What is Chio?
