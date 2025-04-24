@@ -6,7 +6,7 @@ The actual production repository is private, but this repo serves to present the
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./1.png)
+![Home Screen](./banner.png)
 ---
 
 ## 📱 What is Chio?
