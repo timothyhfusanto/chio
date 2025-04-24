@@ -37,7 +37,7 @@ Chio is a modern mobile app where users can:
 You can try the app through **Expo Go**, even though the source code is private.
 
 ### 🚀 Run in Expo Go:
-1. Download the [Expo Go app](https://expo.dev/client) on your iOS or Android device
+1. Download the [Expo Go app](https://expo.dev/client) on your iOS device
 2. Scan the QR code below to open the app:
 
 ![QR Code](./assets/qrcode.png)
