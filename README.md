@@ -6,7 +6,7 @@ The actual production repository is private, but this repo serves to present the
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./screenshots/home.png)
+![Home Screen](./1.png)
 
 
 ---
