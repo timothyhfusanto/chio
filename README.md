@@ -7,18 +7,27 @@ The actual production repository is private, but this repo serves to present the
 
 ## 🔗 Try the App
 
-You can try the app through **Expo Go**, even though the source code is private.
+You can try both the **Chio mobile app** and the **Chio Admin portal**, even though the source code is private.
 
-### 🚀 Run in Expo Go:
+---
+
+### 📱 Chio (Mobile App)
+
+Run the app on your iPhone using **Expo Go**:
+
 1. Download the [Expo Go app](https://expo.dev/client) on your iOS device
-2. Scan the QR code below to open the app:
+2. Scan the QR code below:
 
 ![QR Code](./assets/qrcode.png)
 
 > ⚠️ **Note:** The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
- 
- ---
 
+---
+
+### 💻 Chio Admin Portal (React Web App)
+
+Access the admin dashboard here:  
+🔗 [https://chio-admin-timothyhfusantos-projects.vercel.app](https://chio-admin-timothyhfusantos-projects.vercel.app)
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
