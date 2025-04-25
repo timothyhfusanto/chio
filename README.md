@@ -28,6 +28,12 @@ Run the app on your iPhone using **Expo Go**:
 
 Access the admin dashboard here:  
 🔗 [https://chio-admin-timothyhfusantos-projects.vercel.app](https://chio-admin-timothyhfusantos-projects.vercel.app)
+
+Login Credentials: 
+- Username: SuperAdmin
+- Password: password
+  
+---
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
