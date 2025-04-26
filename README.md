@@ -9,6 +9,9 @@ The actual production repository is private, but this repo serves to present the
 
 You can try both the **Chio mobile app** and the **Chio Admin portal**, even though the source code is private.
 
+> ⚠️ **Note:**
+- The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
+- Due to free hosting of the backend server, the server may take a few seconds to wake up the first time you try the app.
 ---
 
 ### 📱 Chio (Mobile App)
@@ -20,7 +23,6 @@ Run the app on your iPhone using **Expo Go**:
 
 ![QR Code](./assets/qrcode.png)
 
-> ⚠️ **Note:** The app is currently optimized for **iPhone only** and may not run properly on Android devices due to platform-specific features still under development.
 
 ---
 
