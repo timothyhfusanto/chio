@@ -4,6 +4,23 @@ This is a **public showcase repository** for the **Chio App**, a mobile social-c
 The actual production repository is private, but this repo serves to present the app’s purpose, features, and usage for **portfolio and demonstration purposes**.
 
 ---
+## 📸 Screenshots
+
+### 🏠 Home Screen
+![Home Screen](./assets/banner.png)
+---
+
+## 📱 What is Chio?
+
+Chio is a modern mobile app where users can:
+- 📅 Book beauty and wellness services (e.g., salons, nail studios)
+- 🛍️ Shop for beauty-related products
+- 🎥 Engage with short-form video content
+- 💬 Chat in real-time with service providers
+- 💳 Make secure payments via Stripe
+- 🔍 Search for services with powerful Elasticsearch integration
+
+---
 
 ## 🔗 Try the App
 
@@ -35,24 +52,7 @@ Login Credentials:
 - Username: SuperAdmin
 - Password: password
   
----
-## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home Screen](./assets/banner.png)
----
-
-## 📱 What is Chio?
-
-Chio is a modern mobile app where users can:
-- 📅 Book beauty and wellness services (e.g., salons, nail studios)
-- 🛍️ Shop for beauty-related products
-- 🎥 Engage with short-form video content
-- 💬 Chat in real-time with service providers
-- 💳 Make secure payments via Stripe
-- 🔍 Search for services with powerful Elasticsearch integration
-
----
 
 ## 🔧 Tech Stack
 
