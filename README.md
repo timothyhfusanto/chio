@@ -27,7 +27,7 @@ Run the app on your iPhone using **Expo Go**:
 ### 💻 Chio Admin Portal (React Web App)
 
 Access the admin dashboard here:  
-🔗 [https://chio-admin-timothyhfusantos-projects.vercel.app](https://chioadmin.vercel.app)
+🔗 [https://chioadmin.vercel.app](https://chioadmin.vercel.app)
 
 Login Credentials: 
 - Username: SuperAdmin
